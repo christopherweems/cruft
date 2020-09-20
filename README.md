@@ -2,4 +2,4 @@
 
 is this thing on?
 
-Requires Swift 5.3, iOS 13+, macOS 10.15+
+Requires Swift 5.3, iOS 13+, macOS 10.15+ (Catalyst), or tvOS 13+
